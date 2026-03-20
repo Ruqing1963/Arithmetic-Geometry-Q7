@@ -1,0 +1,19 @@
+=== Dark Matter Scan for Q7(x) Dimension-Reduced Elliptic Curve E1 ===
+Base Curve E1: Y^2 = X^3 + 14*X^2 + 49*X + 49
+
+D = 1  | Conductor N = 392     | Selmer Rank = 1 | Analytic Rank = 1 | Structurally smooth
+D = 2  | Conductor N = 3136    | Selmer Rank = 1 | Analytic Rank = 1 | Structurally smooth
+D = 3  | Conductor N = 7056    | Selmer Rank = 0 | Analytic Rank = 0 | Structurally smooth
+D = 5  | Conductor N = 9800    | Selmer Rank = 0 | Analytic Rank = 0 | Structurally smooth
+D = 7  | Conductor N = 784     | Selmer Rank = 0 | Analytic Rank = 0 | Structurally smooth
+D = 11 | Conductor N = 94864   | Selmer Rank = 0 | Analytic Rank = 0 | Structurally smooth
+D = 13 | Conductor N = 66248   | Selmer Rank = 2 | Analytic Rank = 2 | Structurally smooth
+D = 17 | Conductor N = 113288  | Selmer Rank = 1 | Analytic Rank = 1 | Structurally smooth
+D = 19 | Conductor N = 283024  | Selmer Rank = 0 | Analytic Rank = 0 | Structurally smooth
+D = 23 | Conductor N = 414736  | Selmer Rank = 0 | Analytic Rank = 0 | Structurally smooth
+D = 29 | Conductor N = 329672  | Selmer Rank = 2 | Analytic Rank = 2 | Structurally smooth
+D = 31 | Conductor N = 753424  | Selmer Rank = 0 | Analytic Rank = 0 | Structurally smooth
+D = 37 | Conductor N = 536648  | Selmer Rank = 0 | Analytic Rank = 0 | Structurally smooth
+D = 41 | Conductor N = 658952  | Selmer Rank = 1 | Analytic Rank = 1 | Structurally smooth
+D = 43 | Conductor N = 1449616 | Selmer Rank = 2 | Analytic Rank = 2 | Structurally smooth
+D = 47 | Conductor N = 1731856 | Selmer Rank = 0 | Analytic Rank = 0 | Structurally smooth

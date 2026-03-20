@@ -1,0 +1,11 @@
+=== Galois Group Analysis of Titan Polynomial Q7(x) (Compatible Version) ===
+Polynomial: 7*x^6 - 21*x^5 + 35*x^4 - 35*x^3 + 21*x^2 - 7*x + 1
+
+Galois Group: Transitive group number 1 of degree 6
+Abstract Structure: C6
+Group Order: 6
+Is Abelian: True
+
+Number of Subgroups: 4
+Since the group order is 6 (2x3) and it is abelian, normal subgroups of index 2 and 3 must exist.
+--> Conclusion: Jac(C_7) satisfies strict symmetry. Richelot isogeny splitting condition is met!

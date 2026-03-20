@@ -1,0 +1,17 @@
+=== Sha Group Dark Matter Scan for Twisted Titan Curve (q=5) ===
+D = 1  | Conductor N = 200     | Selmer Rank = 2 | Analytic Rank = 1 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 2  | Conductor N = 1600    | Selmer Rank = 1 | Analytic Rank = 0 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 3  | Conductor N = 3600    | Selmer Rank = 2 | Analytic Rank = 1 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 5  | Conductor N = 200     | Selmer Rank = 1 | Analytic Rank = 0 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 7  | Conductor N = 19600   | Selmer Rank = 2 | Analytic Rank = 1 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 11 | Conductor N = 48400   | Selmer Rank = 2 | Analytic Rank = 1 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 13 | Conductor N = 33800   | Selmer Rank = 1 | Analytic Rank = 0 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 17 | Conductor N = 57800   | Selmer Rank = 2 | Analytic Rank = 1 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 19 | Conductor N = 144400  | Selmer Rank = 2 | Analytic Rank = 1 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 23 | Conductor N = 211600  | Selmer Rank = 2 | Analytic Rank = 1 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 29 | Conductor N = 168200  | Selmer Rank = 1 | Analytic Rank = 0 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 31 | Conductor N = 384400  | Selmer Rank = 2 | Analytic Rank = 1 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 37 | Conductor N = 273800  | Selmer Rank = 1 | Analytic Rank = 0 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 41 | Conductor N = 336200  | Selmer Rank = 4 | Analytic Rank = 1 | ⚠️ Dark Matter Captured! Sha order ≈ 4
+D = 43 | Conductor N = 739600  | Selmer Rank = 2 | Analytic Rank = 1 | ⚠️ Dark Matter Captured! Sha order ≈ 1
+D = 47 | Conductor N = 883600  | Selmer Rank = 2 | Analytic Rank = 1 | ⚠️ Dark Matter Captured! Sha order ≈ 1

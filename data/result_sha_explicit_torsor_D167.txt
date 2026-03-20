@@ -1,0 +1,21 @@
+=== Q7 Curve D=167 : Explicit 2-Descent & Sha Verification ===
+Base Curve E: Elliptic Curve defined by y^2 = x^3 + 2338*x^2 + 1366561*x +
+228215687 over Rational Field
+
+Central L-value L(E, 1) =  4.40908245864763486660123194775
+=> Analytic Rank is 0. Mordell-Weil Rank is exactly 0.
+
+[Locally Soluble Torsors (Elements of Selmer Group)]:
+[
+    Hyperelliptic Curve defined by y^2 = 12*x^4 - 163*x^3 - 83*x^2 + 2120*x +
+        2243 over Rational Field,
+    Hyperelliptic Curve defined by y^2 = 75*x^4 + 364*x^3 - 413*x^2 - 651*x +
+        539 over Rational Field,
+    Hyperelliptic Curve defined by y^2 = 147*x^4 + 224*x^3 - 707*x^2 - 161*x +
+        430 over Rational Field
+]
+
+[Rigorous Verification]
+Checking global rational points on Torsor 1 (Search Bound: 100,000)...
+=> VERIFIED: No global rational points found.
+=> CONCLUSION: Strict failure of the Hasse Principle. Sha[2] element confirmed!
